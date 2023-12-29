@@ -1,3 +1,23 @@
+# COSMonaut 리뉴얼
+
+## To Do List
+- 전체 튜토리얼 진행 (영상 하나)
+  - 막히는 부분 바로바로 해결
+  - 계속해서 기록 남기기
+  - Server 몇 번 요청했는지도 체크 (비교를 위해)
+- AS-IS 아키텍처 작성
+  - 폴더 구조
+  - API 요청 순서
+  - 문제점 파악
+- TO-BE 아키텍처 작성
+  - 최대한 꼼꼼하게 적기
+  - 리서치 많이 하기 (Tailwind? StyleX?)
+ 
+## 메모장
+- 블로그에 리뉴얼 과정 포스팅 예정
+  - AS-IS와 비교하며 어디가 변했는지 넣기
+
+
 # Docker Compose Testbed
 
 ## 1) Set .env in cosmonaut-api folder
